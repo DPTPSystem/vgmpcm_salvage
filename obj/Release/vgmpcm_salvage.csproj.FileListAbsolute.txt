@@ -1,0 +1,6 @@
+C:\Users\DPTP\Google Drive\DPTP\csharp\vgmpcm_salvage\bin\Release\vgmpcm_salvage.exe.config
+C:\Users\DPTP\Google Drive\DPTP\csharp\vgmpcm_salvage\bin\Release\vgmpcm_salvage.exe
+C:\Users\DPTP\Google Drive\DPTP\csharp\vgmpcm_salvage\bin\Release\vgmpcm_salvage.pdb
+C:\Users\DPTP\Google Drive\DPTP\csharp\vgmpcm_salvage\obj\Release\vgmpcm_salvage.exe
+C:\Users\DPTP\Google Drive\DPTP\csharp\vgmpcm_salvage\obj\Release\vgmpcm_salvage.pdb
+C:\Users\DPTP\Google Drive\DPTP\csharp\vgmpcm_salvage\obj\Release\vgmpcm_salvage.csprojAssemblyReference.cache
