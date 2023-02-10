@@ -36,7 +36,7 @@ Az esetleges hiba kezelésére érdemes kivételkezelést beiktatni, főként a 
 Későbbiek során lehet, hogy ezeket pótolom, de addigis figyelni kell a kompatibilitásra. Neo Geo VGM fájlok esetén, csak az első digitális
 hangot exportálja a program.
 
-![alt text](http://neo-geo.hu/news/don_peter/new43/wav.png "Wav sample")
+![alt text align center](http://neo-geo.hu/news/don_peter/new43/wav.png "Wav sample")
 
 # Program működése
 - Program indulásnál (lásd: feljebb az indítási paramétereket) ellenőrzi, hogy létezik e a fájl, ha igen, akkor megnyitja majd ezt követően
