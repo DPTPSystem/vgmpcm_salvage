@@ -3,18 +3,30 @@
 # [neo-geo.hu/SEGA VGM, PCM Sound Sample](http://neo-geo.hu/index.php?modul=news&news=43#nwe)
 
 # Program indítása paraméterezése
+
 	`vgmpcm_salvage filename.vgm`
-- * a program alap állapotban indítva, annyit tesz, hogy 11KHz-es wav állományokat exportál
+	
+- a program alap állapotban indítva, annyit tesz, hogy 11KHz-es wav állományokat exportál
+
 	`vgmpcm_salvage filename.vgm 1`
-- * a program 8KHz-es wav állományt exportál
+	
+- a program 8KHz-es wav állományt exportál
+
 	`vgmpcm_salvage filename.vgm 2`
-- * 11025Hz vagy is 11KHz, paraméter nélkül ez az alapértelmezett
+	
+- 11025Hz vagy is 11KHz, paraméter nélkül ez az alapértelmezett
+
 	`vgmpcm_salvage filename.vgm 3`
-- * 16KHz
+	
+- 16KHz
+
 	`vgmpcm_salvage filename.vgm 4`
-- * 22050Hz vagy is 22KHz
+	
+- 22050Hz vagy is 22KHz
+
 	`vgmpcm_salvage filename.vgm 5`
-- * 44100Hz vagy is 44.1KHz
+	
+- 44100Hz vagy is 44.1KHz
 
 # Program hibái
 - A program csak a SEGA VGM fájlokra lett optimalizálva, minden más esetben, ha nem kompatibilis a fájl, akkor a program programhibára futhat.
