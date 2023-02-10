@@ -4,6 +4,8 @@
 
 # Program indítása paraméterezése
 
+- Program indítása
+
 	`vgmpcm_salvage filename.vgm`
 	
 - a program alap állapotban indítva, annyit tesz, hogy 11KHz-es wav állományokat exportál
